@@ -86,7 +86,7 @@ describe('all tests', () => {
     expect(v).toBeCloseTo(3.99);
   });
 
-  it('case10', async () => {
+  it('caseX', async () => {
     await page.evaluate(
       'let item1 = new OrderItem(2,"Short (236ml)","Medium Roast Coffee")'
     );

@@ -13,7 +13,7 @@
     "test-case7": "jest -t 'case7'",
     "test-case8": "jest -t 'case8'",
     "test-case9": "jest -t 'case9'",
-    "test-case10": "jest -t 'case10'"
+    "test-caseX": "jest -t 'caseX'"
   },
   "author": "Brian Koehler",
   "license": "MIT",
