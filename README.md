@@ -36,5 +36,9 @@ Remember that:
 - Short, Tall, Grande, and Venti coffees cost 2.99, 3.19, 3.49 and 3.99 respectively, and
 - Short, Tall, Grande, and Venti teas cost 2.85, 3.05, 3.25, and 3.50 respectively.
 
+HINT: this assignment is similar to Assignment 4. Here you will create a class to represent
+ordered items - drinks. The total part you have done in Assignment 4 is not required for
+this assignment, which is offloaded to the built-in functions.
+
 NOTE: Only modify the `docs/app.js` and `docs/index.html` files.
 Do not make changes to any other files.
